@@ -13,7 +13,8 @@ At some point in your research you will likely have a massive hard drive crash, 
 ## Making a repo on Git-Hub
 When you click on the "New repository" button on Git-Hub you will see the following:
 
-![Git-Hub new repo](git-hub_new_repo.png)
+<img width="764" height="643" alt="git-hub_new_repo" src="https://github.com/user-attachments/assets/6bc5f052-2243-4917-9717-6d65960e05d3" />
+
 
 Here you can enter in some information about your repo:
 
@@ -27,7 +28,8 @@ Here you can enter in some information about your repo:
 ### Clone a local copy
 Now that you have a new repo online it is time to get a local copy on your computer.  Open a terminal and `cd` to the directory you want your repo to live.  On Git-Hub click the "Clone or download" button, if you set up an ssh key click the "Use SSH" link, if you did not, make sure you use the "Use HTTPS" link.  Here is an example of an ssh link:
 
-![Git-Hub clone via ssh](git-hub_clone_repo.png)
+<img width="513" height="282" alt="git-hub_clone_repo" src="https://github.com/user-attachments/assets/272c8fe3-3f70-4e23-8316-c5878b31eeeb" />
+
 
 Copy the link provided and go back to your terminal and type the command:
 ```bash
@@ -37,7 +39,8 @@ git clone <link you copied>
 ## Making a local repo
 You can also make an existing folder into a git repo.  If you plan to keep back ups of this code on Git-Hub (like you should), start by making a blank repo on Git-Hub (see above) and just give it a name.  Once you do that you will see the following:
 
-![Git-Hub blank repo](git-hub_blank_repo.png)
+<img width="1016" height="698" alt="git-hub_blank_repo" src="https://github.com/user-attachments/assets/ce0b608c-4627-4837-b807-b51cb0648386" />
+
 
 This gives you the step-by-step code for initializing your repo and setting the `remote` URL correctly.  Again, if you have `ssh` set up make sure you have the "SSH" button pressed, and if you don't make sure the "HTTPS" button is pressed.
 
