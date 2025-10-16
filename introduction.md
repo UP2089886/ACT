@@ -15,7 +15,6 @@ When you click on the "New repository" button on Git-Hub you will see the follow
 
 <img width="764" height="643" alt="git-hub_new_repo" src="https://github.com/user-attachments/assets/6bc5f052-2243-4917-9717-6d65960e05d3" />
 
-
 Here you can enter in some information about your repo:
 
 + Repository name: the name of you repo and this will also be in the url for the repo
